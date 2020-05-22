@@ -17,7 +17,7 @@ Download the our prediction result maps [BaiduYun](https://pan.baidu.com/s/1y9mC
 If you have some question: cxpanzefeng@163.com
 
 
-# Thanks to [DSS-pytorch](https://github.com/AceCoooool/DSS-pytorch)
-# Thanks to [BDCN](https://github.com/pkuCactus/BDCN)
-# Thanks to [DANet](https://github.com/junfu1115/DANet)
+## Thanks to [DSS-pytorch](https://github.com/AceCoooool/DSS-pytorch)
+## Thanks to [BDCN](https://github.com/pkuCactus/BDCN)
+## Thanks to [DANet](https://github.com/junfu1115/DANet)
 
