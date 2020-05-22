@@ -1,5 +1,5 @@
 # Complementarity-Aware-Attention-Network-for-Salient-Object-Detection
-This is Pytorch implementation of our TCYB [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091936).
+This is Pytorch implementation of our TCYB(IEEE TRANSACTIONS ON CYBERNETICS) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091936).
 ## Prerequisites
 * [Pytorch 1.0](https://pytorch.org/)
 ## Usage
