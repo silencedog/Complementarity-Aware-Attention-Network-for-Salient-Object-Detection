@@ -14,7 +14,7 @@ Download the our prediction result maps [BaiduYun](https://pan.baidu.com/s/1y9mC
 2. Set the mode parameters of main.py is train.
 ### 4. Test
 1. Set the datasets path in main.py (Actually dataname of main.py).
-### 5. Torch with me
+### 5. Touch with me
 If you have some question: cxpanzefeng@163.com
 
 
