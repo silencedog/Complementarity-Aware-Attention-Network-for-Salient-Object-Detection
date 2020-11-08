@@ -6,9 +6,9 @@ This is Pytorch implementation of our TCYB(IEEE TRANSACTIONS ON CYBERNETICS) [pa
 ### 1. Clone the repository
 git https://github.com/silencedog/Complementarity-Aware-Attention-Network-for-Salient-Object-Detection.git
 ### 2. Download the best pre-trained models and result maps
-Download the following pre-trained models [BaiduYun](https://pan.baidu.com/s/1y9mCQ_OPKjlqSqsrhlObng) into CANet folder.
+Download the following pre-trained models [BaiduYun](https://pan.baidu.com/s/1y9mCQ_OPKjlqSqsrhlObng) Extracted code： wbpw into CANet folder.
 
-Download the our prediction result maps [BaiduYun](https://pan.baidu.com/s/1y9mCQ_OPKjlqSqsrhlObng) into CANet folder.
+Download the our prediction result maps [BaiduYun](https://pan.baidu.com/s/1y9mCQ_OPKjlqSqsrhlObng)  Extracted code： wbpw into CANet folder.
 ### 3. Train
 1. Set the main.py and CANet.py path.
 2. Set the mode parameters of main.py is train.
